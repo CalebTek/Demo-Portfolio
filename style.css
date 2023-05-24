@@ -2,3 +2,15 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  font-family: 'Ibarra Real Nova', serif;
+  /*H1, Ibarra Real Nova Bold, 50px, 50px Line, -0,45 Character*/
+  /*font-weight: 500;
+  font-size: 50px;
+  line-height: 50px;
+  color: #33323D;
+
+
+;
+}
